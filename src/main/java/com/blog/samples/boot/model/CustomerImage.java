@@ -33,5 +33,5 @@ public class CustomerImage {
 	@Getter
 	@Column(name = "url", nullable = false, length=1000)
 	private String url;
-	
+
 }
