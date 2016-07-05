@@ -1,6 +1,8 @@
 # spring-boot-aws
 Demo app is built with Spring Boot and Angular and uses AWS EC2, MySQL RDS and S3 Storage. Some screenshots below.
 
+[Blog about this app](http://briansjavablog.blogspot.fr/2016/05/spring-boot-angular-amazon-web-services.html)
+
 
 ![access_app_on_ec2](https://cloud.githubusercontent.com/assets/2404172/14990684/9dee567e-1155-11e6-8b98-46bc3760edfc.png)
 
