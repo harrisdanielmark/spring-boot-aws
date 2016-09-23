@@ -75,6 +75,7 @@ resource "aws_db_instance" "rds" {
   parameter_group_name = "default.mysql5.6"
   backup_retention_period = 7
   apply_immediately  = true
+  publicly_accessible = true
 }
 
 output "rds_address" {
